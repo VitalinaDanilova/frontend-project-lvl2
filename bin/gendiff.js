@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import program from '../src/index.js';
+import genDiff from '../src/index.js';
 
-console.log(program);
+genDiff();
